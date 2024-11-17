@@ -366,6 +366,11 @@ footer {
     padding: 1vw 1.5vw;
     display: flex;
   }
+
+  .image {
+    width: 20vh;
+    height: 35vh;
+  }
 }
 
 @media screen and (max-width: 550px) {
@@ -384,7 +389,7 @@ footer {
 
   .description,
   .footer-description {
-    font-size: 3vw;
+    font-size: 1rem;
   }
 
   #controls {
@@ -402,7 +407,7 @@ footer {
   }
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 450px) {
   .boxmodel {
     display: flex;
     width: 10rem;
