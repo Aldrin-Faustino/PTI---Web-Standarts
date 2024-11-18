@@ -6,5 +6,4 @@ A escolha foi de uma marcenaria cujo teria o nome de Magno Carvalho, da qual ser
 
 Para isso foi elaborado um protótipo com o programa de edição PhotoShop que serviu como o molde para criaçao do Home Page.
 
-Arquivos disponíveis no Github: https://github.com/Aldrin-Faustino/PTI---Web-Standarts
 Site online Acessível em: https://ptiws-aldrinfp.netlify.app/
