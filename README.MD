@@ -1,7 +1,10 @@
 PTI - Web Standarts - SENAC
-Aldri Faustino
+Aldrin Faustino
 
-O seguinte projeto refere-se a um trabalho realizado para a instituição de ensino SENAC da matéria de WEB Standarts. A proposta é criar uma home page de um negócio autônomo e responsivo com HTML e CSS.
-A escolha foi de uma marcenaria cujo teria o nome de Magno Carvalho, da qual seria responsável por criar objetos de madeira para casas e empresas.
+O seguinte projeto refere-se a um trabalho realizado para a instituição de ensino SENAC da matéria de WEB Standarts. A proposta é criar uma home page responsivo de um negócio autônomo com HTML e CSS.
+A escolha foi de uma marcenaria cujo teria o nome de Magno Carvalho, da qual seria responsável no ramo da marcenaria criando e entrengando objetos de madeira para casas e empresas.
 
-Acessível por: ptiws-aldrinfp.netlify.app
+Para isso foi elaborado um protótipo com o programa de edição PhotoShop que serviu como o molde para criaçao do Home Page.
+
+Arquivos disponíveis no Github: https://github.com/Aldrin-Faustino/PTI---Web-Standarts
+Site online Acessível em: https://ptiws-aldrinfp.netlify.app/
